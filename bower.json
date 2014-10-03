@@ -1,0 +1,23 @@
+{
+  "name": "diviner-synth",
+  "version": "0.0.1",
+  "authors": [
+    "Acauã Montiel <contato@acauamontiel.com.br>"
+  ],
+  "description": "A little experimental synthesizer with just HTML5, CSS3 and JS",
+  "main": "gulpfile.js",
+  "keywords": [
+    "template"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/acauamontiel/diviner-synth",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
